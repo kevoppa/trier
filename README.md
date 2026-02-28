@@ -10,4 +10,4 @@ Un outil PowerShell avec interface graphique pour organiser automatiquement vos 
 
 ## 🚀 Utilisation
 1. Téléchargez le fichier `TrieurPro.exe`.
-2. Exécuter et profitez !
+2. Exécutez le et profitez !
