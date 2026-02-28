@@ -9,5 +9,5 @@ Un outil PowerShell avec interface graphique pour organiser automatiquement vos 
 - **Gestion des conflits** : Alerte si un fichier dépasse à lui seul la limite autorisée.
 
 ## 🚀 Utilisation
-1. Téléchargez le fichier `code_source.ps1`.
-2. Faites un clic droit sur le fichier et sélectionnez **"Exécuter avec PowerShell"**.
+1. Téléchargez le fichier `TrieurPro.exe`.
+2. Exécuter et profitez !
